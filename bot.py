@@ -3,8 +3,6 @@ import re
 import os
 import asyncio
 
-TOKEN = ''
-DANE_PLIK = ''
 
 intents = discord.Intents.default()
 intents.messages = True
