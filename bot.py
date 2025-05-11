@@ -4,7 +4,7 @@ import os
 import asyncio
 
 TOKEN = ''
-DANE_PLIK = 'phonebook.txt'
+DANE_PLIK = ''
 
 intents = discord.Intents.default()
 intents.messages = True
