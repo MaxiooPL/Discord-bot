@@ -3,7 +3,7 @@ import re
 import os
 import asyncio
 
-TOKEN = 'MTM3MTE4Mjk5MDc3MTc1MzA0MQ.GVyUHk.o5W5NRuA1Tnhx2oAFjEuqf0XMfFmnvvaKNMfII'
+TOKEN = ''
 DANE_PLIK = 'phonebook.txt'
 
 intents = discord.Intents.default()
